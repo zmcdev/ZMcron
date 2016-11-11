@@ -1,0 +1,9 @@
+Building zetamicron
+
+See doc/readme-qt.rst for instructions on building zetamicron QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of zetamicron.
+
+See doc/build-*.txt for instructions on building zetamicrond,
+the intended-for-services, no-graphical-interface, reference
+implementation of zetamicron.
